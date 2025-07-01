@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=slice&height=150&color=0F766E,2DD4BF&reversal=false&descAlignY=41&descAlign=100&textBg=false&fontAlignY=73&fontAlign=80)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=06B6D4)
 
   <h2>Hi, I'm <strong>Burhan</strong> — Software Developer</h2>
   <p><em>Crafting scalable, modern, and elegant web & mobile applications</em></p>
@@ -96,6 +96,6 @@
 
   ---
 
-  ![Footer](https://capsule-render.vercel.app/api?type=slice&height=150&color=0F766E,2DD4BF&reversal=true&descAlignY=41&descAlign=100&textBg=false&fontAlignY=73&fontAlign=80&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=06B6D4&section=footer)
 
 </div>
