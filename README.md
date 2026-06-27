@@ -91,6 +91,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/><br/>
         Sass
       </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br/>
+        C
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" width="80"/><br/>
+        STM32
+      </td>
     </tr>
   </table>
 
